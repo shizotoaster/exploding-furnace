@@ -4,5 +4,5 @@
     "item": "minecraft:gunpowder"
   },
   "result": "explodingfurnaces:hot_gunpowder",
-  "cookingtime": 50
+  "cookingtime": 100
 }
